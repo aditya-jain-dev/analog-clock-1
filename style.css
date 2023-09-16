@@ -133,3 +133,12 @@ footer p{
         font-size: 15px;
     }
 }
+
+@media screen and (max-width: 1024px){
+    footer p{
+        font-size: 10px;
+    }
+    .footer-icons a{
+        font-size: 15px;
+    }
+}
