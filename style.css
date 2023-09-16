@@ -125,7 +125,6 @@ footer p{
     footer{
         flex-direction: column;
         gap: 10px;
-        bottom: 2%;
     }
     footer p{
         font-size: 10px;
